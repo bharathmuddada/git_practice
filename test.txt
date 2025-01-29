@@ -3,4 +3,4 @@ edited line
 new change added
 added cool features
 bug fix
-new line added on jan 29 -01
+new line added on jan 29 -01 -something else added
